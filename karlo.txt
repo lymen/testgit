@@ -1,1 +1,2 @@
 try ko ni
+ni.add ko ug line
